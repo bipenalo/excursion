@@ -6,3 +6,51 @@ h1 {
   font-weight: normal;
 
 }
+
+body {
+  background-color: black;
+}
+
+.anchor1, .anchor2 {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  width: auto;
+
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-family: verdana;
+  text-align: center;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+  font-family: verdana;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: auto;
+}
+
+.right {
+  text-align: right;
+
+}
+
+.icon {
+  margin: 0 auto;
+  display: block;
+  
+}
